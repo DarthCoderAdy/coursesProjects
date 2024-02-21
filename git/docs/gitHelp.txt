@@ -1,0 +1,18 @@
+Help Commands
+Git Help Commands
+Help commands here.
+
+ 
+
+Lecture Command Listing
+git help
+git help config
+ 
+
+Command Reference
+Getting general help:
+
+git help
+Help Command Syntax -- getting help about a specific Git command:
+
+git help command

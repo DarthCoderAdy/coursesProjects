@@ -1,0 +1,30 @@
+{
+    "books": {
+        "currentBook": {
+            "title": "sranda",
+            "isbn": "56148944984",
+            "author": {
+                "first": "Adam",
+                "last": "Sauce",
+                "fb": "@Darth"
+            },
+            "related": [
+                "vtip",
+                "joke"
+            ]
+        },
+        "nextBook": {
+            "title": "soup",
+            "isbn": "56142222984",
+            "author": {
+                "first": "Eda",
+                "last": "Noodle",
+                "fb": "@diver"
+            },
+            "related": [
+                "gaspacho",
+                "Stock"
+            ]
+        }
+    }
+}
